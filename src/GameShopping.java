@@ -43,6 +43,7 @@ public class GameShopping {
         }
         //cierra el Scanner
         jg.close();
+        
     }
 
 
