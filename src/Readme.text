@@ -11,9 +11,12 @@ GameShopping: https://vjudge.net/problem/Gym-274655F
 
 Bachgold problem: https://vjudge.net/problem/Gym-274653C
             Problema sencillo que realice en el mismo campamento que el anterior, la clave para solucionarlo es el correcto 
-            de ciclos, lista y casting, tamvien el hecho de manejar casos dinamicos para solucionarlos de forma general.
+            de ciclos, lista y casting, tambien el hecho de manejar casos dinamicos para solucionarlos de forma general.
             Resultado: EL programa calcula y muestra la longitud de la lista y los bytes relacionados a la descomposicion de
             x en ellos.
 
-
+Elephant :https://vjudge.net/problem/CodeForces-617A
+            Problema similar a Bachgold problem, donde utilice Buffered a cambio de Scanner para probar otro tipo de pedir datos,
+            tambien decidi utilizar un metodo para realizarlo de forma difirente al anterior, la idea es utilizar ciclos de forma
+            adecuada y el adecuado uso de condicionales.
 
