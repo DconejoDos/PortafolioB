@@ -1,4 +1,19 @@
 Problemas
 GameShopping: https://vjudge.net/problem/Gym-274655F
-            Enfrente este problema en un campamento de programación 
+            Enfrente este problema en un campamento de programación del Politécnico GranColombiano.
+            Este programa resuelve el problema de la compra de juegos de Maxim utilizando un algoritmo.
+            Utiliza listas para almacenar datos y sigue las reglas dadas en la descripción del problema.
+            La eficiencia y la capacidad para manejar casos dinámicos son puntos clave para el éxito de esta solución.
+            Resultado: El programa calcula y muestra la cantidad máxima de juegos que Maxim comprará dado su conjunto 
+            de billetes y los costos de los juegos.
+            En este problema fueron utiles
+
+
+Bachgold problem: https://vjudge.net/problem/Gym-274653C
+            Problema sencillo que realice en el mismo campamento que el anterior, la clave para solucionarlo es el correcto 
+            de ciclos, lista y casting, tamvien el hecho de manejar casos dinamicos para solucionarlos de forma general.
+            Resultado: EL programa calcula y muestra la longitud de la lista y los bytes relacionados a la descomposicion de
+            x en ellos.
+
+
 
