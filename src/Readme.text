@@ -24,4 +24,3 @@ Check The String: https://vjudge.net/problem/Gym-273892F
             La clave de este problema se basa en la jerarquia de posiciones de las letras, es decir, en como se debe verificar que
             ninguna b ó c esten antes de una a, igual que ninguna c este antes de b, tambien el saber que 2 o 3 de las letras
             deberian aparecer con la misma frecuencia.
-
