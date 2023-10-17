@@ -30,3 +30,10 @@ Jumping Mario:https://vjudge.net/problem/UVA-11764
             mi equipo y yo fuimos los primeros en resolverlo, la unica dificultad que posee es entender bien que es un salto alto
             y un salto bajo, e imprimir de forma correcta la salida que pide el jurado.
 
+Lunch Break: https://vjudge.net/problem/Gym-101498C
+            Es un problema muy sencillo, es simular la funcion de Math.min pero usando ciclos.
+
+Weak Links: https://vjudge.net/problem/UVA-12783
+            Este es un problema mas complejo, se puede resolver usando dfs, el ideal es encontrar el nodo que pueda partir el grafo
+            en dos solo evitandolo a el, es un poco mas dificil que el resto, no obstante a pesar que mi solucion resuelve el problema
+            el jurado no lo acepta por el tema de complejidad a la hora de ser ejecutado.
