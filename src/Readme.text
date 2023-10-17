@@ -24,3 +24,9 @@ Check The String: https://vjudge.net/problem/Gym-273892F
             La clave de este problema se basa en la jerarquia de posiciones de las letras, es decir, en como se debe verificar que
             ninguna b ó c esten antes de una a, igual que ninguna c este antes de b, tambien el saber que 2 o 3 de las letras
             deberian aparecer con la misma frecuencia.
+
+Jumping Mario:https://vjudge.net/problem/UVA-11764
+            Este problema fue uno de los primeros que solucione en mi participacion como competidor en maratones de programacion,
+            mi equipo y yo fuimos los primeros en resolverlo, la unica dificultad que posee es entender bien que es un salto alto
+            y un salto bajo, e imprimir de forma correcta la salida que pide el jurado.
+
